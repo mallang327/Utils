@@ -22,3 +22,13 @@ subprocess 이용하여 linux ffmpeg 어플리케이션 사용
 ```
 python mp4_to_wav_ffmpeg.py [file_location] [save_location/file_name.wav]
 ```
+****
+* crawling_mostreplayed.py [많이 다시 본 장면 추출 from Youtube]
+
+YouTube operational API 사용해서 most replayed start time과 duration 추출
+
+youtube-dl 사용해서 audio file download
+
+[(Github Link) YouTube-operational-API](https://github.com/Benjamin-Loison/YouTube-operational-dfdfasf)
+
+[(Github Link) Youtube-dl](https://github.com/ytdl-org/youtube-dl)
