@@ -29,6 +29,6 @@ YouTube operational API 사용해서 most replayed start time과 duration 추출
 
 youtube-dl 사용해서 audio file download
 
-[(Github Link) YouTube-operational-API](https://github.com/Benjamin-Loison/YouTube-operational-dfdfasf)
+[(Github Link) YouTube-operational-API](https://github.com/Benjamin-Loison/YouTube-operational-API)
 
 [(Github Link) Youtube-dl](https://github.com/ytdl-org/youtube-dl)
