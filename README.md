@@ -32,3 +32,9 @@ youtube-dl 사용해서 audio file download
 [(Github Link) YouTube-operational-API](https://github.com/Benjamin-Loison/YouTube-operational-API)
 
 [(Github Link) Youtube-dl](https://github.com/ytdl-org/youtube-dl)
+
+****
+* pytorch_to_cpp.py [torch script로 변환]
+
+torch.jit.script를 통해 torch script로 변환해서 cpp 환경에서 사용할 수 있는 모델 형태로 변환
+
